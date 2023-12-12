@@ -1,0 +1,54 @@
+.FormValues{
+    display: flex;
+    flex-direction: column;
+}
+.FormInputs{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 1000px;
+}
+.FormBuildButton{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.ButtonBuild{
+    width: 100px;
+    height: 25px;
+}
+.FormTitle{
+    display: flex;
+    justify-content: center;
+}
+.Form{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+.BuiltForm{
+    display: flex;
+    flex-direction: column;
+}
+.formTextArea{
+    display: flex;
+    flex-direction: column;    
+}
+.formInputs{
+    display: flex;
+    flex-direction: column;
+    
+}
+.formInputsElement{
+    margin-top: 10px;
+}
+.formCheckbox{
+    display: flex;
+    flex-direction: column;
+}
